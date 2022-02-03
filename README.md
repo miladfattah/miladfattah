@@ -14,7 +14,7 @@ I use PHP/Laravel, Livewire, AlpineJs and Javascript/Vuejs , React , TailwindCss
     
 
 - 📫 How to reach me: 
-<br>
+
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/fattahmilad)](https://t.me/fattahmilad)
-<br>
+
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/miladfattah)](https://twitter.com/miladfattah)
