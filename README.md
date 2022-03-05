@@ -13,6 +13,12 @@ I use PHP/Laravel, Livewire, AlpineJs and Javascript/Vuejs , React , TailwindCss
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
+## Technologies
+
+![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ## Languages and Detail
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miladfattah&layout=compact"/>
