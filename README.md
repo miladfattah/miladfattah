@@ -24,6 +24,7 @@ I use PHP/Laravel, Livewire, AlpineJs and Javascript/Vuejs , React , TailwindCss
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miladfattah&layout=compact"/>
 </p>
     
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=miladfattah&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 
 - 📫 How to reach me: 
 
