@@ -15,7 +15,7 @@ I use PHP/Laravel, Livewire, AlpineJs and Javascript/Vuejs , React , TailwindCss
 
 ## Technologies
 
-![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue)
+![Vue](https://img.shields.io/badge/-Vuejs-000?&logo=Vuejs)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
