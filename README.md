@@ -1,4 +1,5 @@
-https://img.shields.io/badge/404-Not%20Found-red
+
+![404](https://img.shields.io/badge/404-Not%20Found-red)
 ## Hi 👋
 What have You done for open source community today?
 
