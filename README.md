@@ -29,7 +29,7 @@ I use PHP/Laravel, Livewire, AlpineJs and Javascript/Vuejs , React , TailwindCss
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=miladfattah&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 
 <br>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Money Coding" src="https://github.com/miladfattah/miladfattah/blob/main/money.gif?raw=true" align="right"/>
 <br>
 
 - 📫 How to reach me: 
